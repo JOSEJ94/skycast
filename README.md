@@ -2,8 +2,6 @@
 
 SkyCast is a modern, responsive web application that provides real-time weather updates and detailed forecasts for cities worldwide. Built with vanilla technologies, it offers a premium user experience with a focus on aesthetics and usability.
 
-![SkyCast Demo](assets/img/demo-preview.png)
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
